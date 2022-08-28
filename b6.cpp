@@ -7,8 +7,7 @@
 using namespace std;
 
 
-
-int main(){
+ditmem
 	int kw,tiendien;
 	do{
 		//string a;
